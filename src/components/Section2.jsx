@@ -8,7 +8,7 @@ const Section2 = () => {
                 <div className='container'>
                     <div className='row justify-content-center'>
                         <div className='col-lg-6 col-12 d-flex justify-content-center '>
-                            <img className='w-100' src={announcement} alt="logo" />
+                            <img className='w_100 w-70' src={announcement} alt="logo" />
                         </div>
                         <div className='col-lg-6 col-12  d-flex justify-content-center flex-column pt-50 pt-lg-0'>
                             <div className='d-flex align-items-center justify-c-content-center  gap-14 text-c-center'>
