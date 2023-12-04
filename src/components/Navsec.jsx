@@ -39,7 +39,7 @@ const Navsec = () => {
                     </div>
                     <div className="container">
                         <div className=' pos-relative z-1'>
-                            <p className=' ff-worksans fs-40 fw-800 text-center  mw-776 pt-50 mx-auto'>Maitre D – Store Management for Barbers</p>
+                            <p className=' ff-worksans fs-62 fs-38 fw-800 text-center  mw-776 pt-50 mx-auto'>Maitre D – Store Management for Barbers</p>
                             <img className='arrow d-none d-lg-block' src={arrow} alt="logo" />
 
                         </div>

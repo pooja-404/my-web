@@ -86,6 +86,7 @@
     border: none;
     padding: 10px 40px;
 }
+
 .text-white {
     color: #fff;
 }
@@ -683,12 +684,23 @@
 
 }
 
+@media (max-width: 576px) {
+   .fs-38{
+    font-size: 38px;
+
+   }
+
+}
+
 
 @media (min-width: 576px) {
     .col-sm-6 {
         width: 50%;
         padding-left: 12px;
         padding-right: 12px;
+    }
+    .fs-62{
+        font-size: 62px;
     }
 
 }
@@ -700,9 +712,7 @@
         padding-right: 12px;
     }
 
-    .fs-62 {
-        font-size: 62px;
-    }
+
 
 }
 
